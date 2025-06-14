@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1749739663851,
+      "tag": "0000_violet_purple_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1749756413294,
+      "tag": "0001_absent_vulcan",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1749825003275,
+      "tag": "0002_overconfident_carmella_unuscione",
+      "breakpoints": true
+    }
+  ]
+}
