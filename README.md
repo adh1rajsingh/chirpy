@@ -84,13 +84,14 @@ Follow these instructions to get a local copy of the project up and running.
     ```
 
 5.  **Start the server:**
-    For development: This command will compile your TypeScript and start the server.
+
+**For development:** This command will compile your TypeScript and start the server.
 
 ```bash
 npm run dev
 ```
 
-    For production: First, build the optimized JavaScript code. Then, start the application.
+ **For production:** First, build the optimized JavaScript code. Then, start the application.
 
 ```bash
 npm run build
@@ -130,6 +131,3 @@ Here is a list of the available API endpoints.
 - `GET /admin/metrics`: Returns application metrics.
 - `POST /admin/reset`: Resets the database (for development/testing).
 
-```
-
-```
