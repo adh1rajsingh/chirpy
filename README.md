@@ -1,6 +1,6 @@
 # Chirpy - TypeScript & Express.js REST API
 
-Welcome to **Chirpy**, a complete RESTful API built with TypeScript and Express.js. Made by learnings from Boot.dev
+Welcome to **Chirpy**, a complete RESTful API built with TypeScript and Express.js. Made through learnings from Boot.dev
 
 The API serves as the backend for a simple Twitter-like application, managing users, "chirps," and authentication. It includes everything from basic routing to database migrations, JWT-based authentication, and webhook integration.
 
